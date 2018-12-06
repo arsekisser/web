@@ -1,0 +1,36 @@
+<?xml-stylesheet type="text/css" href="5.css" ?>
+<!DOCTYPE HTML>
+<html>
+<head>
+<h2> STUDENT DESCRIPTION : </h2>
+</head>
+<students>
+	<student>
+		<USN> USN: 1bi15cs149</USN>
+		<NAME> NAME:SHIKHAR RAWAT</NAME>
+		<COLLEGE> COLLEGE:BIT</COLLEGE>
+		<PHONE>PHONE:9425189797</PHONE>
+	</student>
+	
+	<student>
+		<USN> USN: 1bi15cs149</USN>
+		<NAME> NAME:SHIKHAR RAWAT</NAME>
+		<COLLEGE> COLLEGE:BIT</COLLEGE>
+		<PHONE>PHONE:9425189797</PHONE>
+	</student>
+	
+	<student>
+		<USN> USN: 1bi15cs149</USN>
+		<NAME> NAME:SHIKHAR RAWAT</NAME>
+		<COLLEGE> COLLEGE:BIT</COLLEGE>
+		<PHONE>PHONE:9425189797</PHONE>
+	</student>
+	
+	<student>
+		<USN> USN: 1bi15cs149</USN>
+		<NAME> NAME:SHIKHAR RAWAT</NAME>
+		<COLLEGE> COLLEGE:BIT</COLLEGE>
+		<PHONE>PHONE:9425189797</PHONE>
+	</student>
+</students>
+</html>
